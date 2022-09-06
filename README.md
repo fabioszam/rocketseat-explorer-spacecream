@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <img src="https://i.postimg.cc/brW441wr/spacecream.png">
+    <img src="https://raw.githubusercontent.com/fabioszam/MyFiles/master/space001.png">
   <picture/>
 </p>
 
@@ -26,7 +26,6 @@
 Project developed at the Rocketseat Explorer program.
 Modelling in accordance with mobile-first rule.
 I've used grid, animations and transitions.
-
 
 ## Techs
 
